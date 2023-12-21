@@ -1,6 +1,7 @@
 {
 	"name": "Phantom-Mode",
 	"type": "dark",
+	"publisherID":"KalkiKal",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
 	  "enumMember": {
