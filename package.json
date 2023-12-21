@@ -1,0 +1,21 @@
+{
+  "name": "phantom-mode",
+  "displayName": "Phantom-Mode",
+  "description": "A dark mode theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Phantom-Mode",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Phantom-Mode-color-theme.json"
+      }
+    ]
+  }
+}
